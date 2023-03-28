@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_practice_solo/static/css/main.c4db80cb.css",
+    "main.js": "/react_practice_solo/static/js/main.56729827.js",
+    "index.html": "/react_practice_solo/index.html",
+    "main.c4db80cb.css.map": "/react_practice_solo/static/css/main.c4db80cb.css.map",
+    "main.56729827.js.map": "/react_practice_solo/static/js/main.56729827.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4db80cb.css",
+    "static/js/main.56729827.js"
+  ]
+}
